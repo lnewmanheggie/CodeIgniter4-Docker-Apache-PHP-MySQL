@@ -32,3 +32,4 @@ localhost:80 172.20.0.1 - - [10/Jul/2021:21:26:20 +0000] "GET / HTTP/1.1" 200 99
 localhost:80 172.20.0.1 - - [10/Jul/2021:21:26:21 +0000] "GET /favicon.ico HTTP/1.1" 200 5731 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 localhost:80 172.20.0.1 - - [10/Jul/2021:21:26:52 +0000] "GET / HTTP/1.1" 200 9980 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 localhost:80 172.20.0.1 - - [10/Jul/2021:21:26:52 +0000] "GET /favicon.ico HTTP/1.1" 200 5731 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+localhost:80 172.20.0.1 - - [10/Jul/2021:21:27:44 +0000] "-" 408 0 "-" "-"
