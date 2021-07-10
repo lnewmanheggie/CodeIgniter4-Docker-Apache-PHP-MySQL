@@ -27,7 +27,7 @@ $modified = [];
 /* Locate each file and update it for the requested stability */
 
 // Composer.json
-$file = __DIR__ . DIRECTORY_SEPARATOR . 'composer.json';
+$file = __DIR__ . DIRECTORY_SEPARATOR;
 
 if (is_file($file))
 {
@@ -120,8 +120,8 @@ if (is_file($file))
 
 // Paths config and PHPUnit XMLs
 $files = [
-	__DIR__ . DIRECTORY_SEPARATOR . 'app/Config/Paths.php',
-	__DIR__ . DIRECTORY_SEPARATOR . 'phpunit.xml.dist',
+    __DIR__ . DIRECTORY_SEPARATOR,
+    __DIR__ . DIRECTORY_SEPARATOR,
 	__DIR__ . DIRECTORY_SEPARATOR . 'phpunit.xml',
 ];
 
