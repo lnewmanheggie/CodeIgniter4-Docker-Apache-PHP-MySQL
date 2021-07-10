@@ -3,3 +3,7 @@
 [Tue Jul 06 01:28:15.042495 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
 [Sat Jul 10 18:22:07.229828 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.21 configured -- resuming normal operations
 [Sat Jul 10 18:22:07.230295 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Jul 10 20:59:21.069844 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+[Sat Jul 10 20:59:45.780934 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.21 configured -- resuming normal operations
+[Sat Jul 10 20:59:45.781229 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
